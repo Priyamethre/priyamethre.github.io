@@ -3,7 +3,7 @@
 
 ## About Me
 
-Curious and impact-driven Data Analyst who enjoys turning messy data into clear stories and actionable insights. Hands-on experience with SQL, Excel, Python, and Power BI, analyzing user behavior, operational performance, and business metrics to support smarter decisions. Known for combining strong analytical thinking with business context, clear communication, and a genuine interest in solving real-world problems through data.
+*I work with data patiently and with purpose, exploring messy datasets until they reveal clear insights. Driven by curiosity, I build projects and experiment with real-world data to uncover the stories behind the numbers.I work with data patiently and with purpose, exploring messy datasets until they reveal clear insights. Driven by curiosity, I build projects using real-world data and enjoy uncovering patterns and stories hidden in numbers. I focus on writing clean analyses, asking the right questions, and learning from every dataset I touch. This GitHub represents my hands-on work, learning journey, and growing expertise in data analytics and data science.*
 
 ---
 
