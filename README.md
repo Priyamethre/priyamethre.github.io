@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Curious and impact-driven Data Analyst who enjoys turning messy data into clear stories and actionable insights. Hands-on experience with SQL, Excel, Python, and Power BI, analyzing user behavior, operational performance, and business metrics to support smarter decisions. Known for combining strong analytical thinking with business context, clear communication, and a genuine interest in solving real-world problems through data.
 
@@ -83,21 +83,21 @@ St. Francis College for Women, Hyderabad
 
 ## 🛠️ Technical Skills
 
-**Languages**: Python, SQL (MySQL)
+- **Languages**: Python, SQL (MySQL)
 
-**Tools**: Excel, Power BI, Google Sheets
+- **Tools**: Excel, Power BI, Google Sheets
 
-**Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly
 
-**Analytics**: EDA, Data Cleaning, Statistical Analysis, KPI Analysis, A/B Testing, Trend Analysis
+- **Analytics**: EDA, Data Cleaning, Statistical Analysis, KPI Analysis, A/B Testing, Trend Analysis
 
-**Machine Learning**: Predictive Modeling, Segmentation, Anomaly Detection, XGBoost, LSTM, Time Series Forecasting, NLP, Text Preprocessing, TF-IDF, Sentiment Analysis
+- **Machine Learning**: Predictive Modeling, Segmentation, Anomaly Detection, XGBoost, LSTM, Time Series Forecasting, NLP, Text Preprocessing, TF-IDF, Sentiment Analysis
 
-**Visualization & Reporting**: Dashboards, Pivot Tables, Data Storytelling
+- **Visualization & Reporting**: Dashboards, Pivot Tables, Data Storytelling
 
-**Deployment**: Streamlit
+- **Deployment**: Streamlit
 
-**Professional Skills**: Analytical Thinking, Problem Solving, Communication, Collaboration
+- **Professional Skills**: Analytical Thinking, Problem Solving, Communication, Collaboration
 
 ## ✨ Let’s Connect
 
