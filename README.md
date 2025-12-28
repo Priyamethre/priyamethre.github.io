@@ -100,13 +100,14 @@ St. Francis College for Women, Hyderabad
 
 ## ✨ Let’s Connect
 
-I’m actively looking for opportunities in **Data Science & Analytics** where I can learn, grow, and make an impact.
+I’m currently looking for opportunities in **Data Analyst / Data Science** roles.  
+If my work resonates with you, I’d love to connect or collaborate.
+
 ⭐ If you like my work, feel free to explore my repositories and connect with me!   
 
 
 📍 Hyderabad, India  
-📧 priyamethre01@gmail.com 
-|📞 8106905367  
+📧 priyamethre01@gmail.com | 
 [LinkedIn](https://www.linkedin.com/in/priyamethre) 
 |
 [Portfolio](https://priyamethre.github.io/) 
