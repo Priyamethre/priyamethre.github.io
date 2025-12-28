@@ -47,6 +47,8 @@ Curious and impact-driven Data Analyst who enjoys turning messy data into clear 
 ### 🔹 Mobile Device Usage Analysis
 - Explored mobile device usage data to understand how users interact with apps and consume battery resources.
 - Translated analysis into a clear, interactive **Power BI dashboard** that highlights usage patterns and supports smarter product decisions.
+
+
 ![Power BI Dashboard](assets/dashboard.png)
 
 ---
