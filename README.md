@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-### **Curious and impact-driven Data Analyst who enjoys turning messy data into clear stories and actionable insights. Hands-on experience with SQL, Excel, Python, and Power BI, analyzing user behavior, operational performance, and business metrics to support smarter decisions. Known for combining strong analytical thinking with business context, clear communication, and a genuine interest in solving real-world problems through data.
+Curious and impact-driven Data Analyst who enjoys turning messy data into clear stories and actionable insights. Hands-on experience with SQL, Excel, Python, and Power BI, analyzing user behavior, operational performance, and business metrics to support smarter decisions. Known for combining strong analytical thinking with business context, clear communication, and a genuine interest in solving real-world problems through data.
 
 ---
 
@@ -12,25 +12,25 @@
 
 ### **Trainity — Data Analyst Intern**  
 📅 Feb 2025 – Jun 2025  
-### - Performed **EDA and data analysis** using SQL and Excel on user behavior and operational metrics  
-### - Built dashboards and reports using **Pivot Tables, KPIs, and charts**  
-### - Delivered actionable insights using **statistical and trend analysis**
+- Performed **EDA and data analysis** using SQL and Excel on user behavior and operational metrics  
+- Built dashboards and reports using **Pivot Tables, KPIs, and charts**
+- Delivered actionable insights using **statistical and trend analysis**
 
 ---
 
 ### **360DigiTMG — Data Science Intern**  
 📅 Aug 2024 – Dec 2024  
-### - Built and deployed a **Credit Card Fraud Detection system** using **XGBoost + SMOTE**, achieving **97.7% AUC**
-### - Developed a **real-time Streamlit app** for fraud detection  
-### - Analyzed **20,000+ Zomato reviews** using **NLP & sentiment analysis** to study cuisine trends and pricing behavior
+- Built and deployed a **Credit Card Fraud Detection system** using **XGBoost + SMOTE**, achieving **97.7% AUC**
+- Developed a **real-time Streamlit app** for fraud detection  
+- Analyzed **20,000+ Zomato reviews** using **NLP & sentiment analysis** to study cuisine trends and pricing behavior
 
 ---
 
 ### **Innodatatics — ML Intern**  
 📅 Apr 2024 – May 2024  
-### - Worked on **Optimization of Machine Downtime**, reducing downtime by **10%**
-### - Achieved **95% prediction accuracy** using machine learning models  
-### - Deployed the solution via a **Streamlit application** for manufacturing workflows
+- Worked on **Optimization of Machine Downtime**, reducing downtime by **10%**
+- Achieved **95% prediction accuracy** using machine learning models  
+- Deployed the solution via a **Streamlit application** for manufacturing workflows
 
 ---
 
@@ -40,13 +40,17 @@
 - Performed **time series analysis** (moving averages, autocorrelation, seasonality)
 - Built an **LSTM model** with a 60-day lookback window
 - Implemented **rolling forward prediction** for future stock forecasting
+
 ![Actual vs Prediction](assets/Prediction.png)
+
 ---
 
 ### 🔹 Mobile Device Usage Analysis
 - Analyzed app usage, screen time, and battery drain using **Python**
 - Designed an **interactive Power BI dashboard** for user behavior segmentation
+
 ![Power BI Dashboard](assets/dashboard.png)
+
 ---
 
 ### 🔹 IMDB Movie Recommendation System
@@ -70,33 +74,30 @@ St. Francis College for Women, Hyderabad
 
 ## 📜 Certifications
 
-- SQL Basics — HackerRank  
-- Data Visualization using Power BI — 360DigiTMG  
-- Python Bootcamp — Udemy  
+- **SQL BASICS CERTIFICATE** | Hacker Rank | Obtained: Oct 2024		
+- **DATA VISUALIZATION USING POWER BI** | 360DigiTMG | Obtained: Sep 2023	
+- **PYTHON BOOTCAMP** | Udemy	
+ 
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages & Tools:**  
-Python, MySQL, Excel, Power BI, Google Sheets  
+**Languages**: Python, SQL (MySQL)
 
-**Libraries & Frameworks:**  
-Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly  
+**Tools**: Excel, Power BI, Google Sheets
 
-**Techniques:**  
-EDA, Data Cleaning, Machine Learning, Deep Learning (LSTM),  
-Time Series Forecasting, NLP, Sentiment Analysis,  
-A/B Testing, Anomaly Detection, Segmentation, Statistical Analysis  
+**Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly
 
----
+**Analytics**: EDA, Data Cleaning, Statistical Analysis, KPI Analysis, A/B Testing, Trend Analysis
 
-## 🤝 Professional Skills
+**Machine Learning**: Predictive Modeling, Segmentation, Anomaly Detection, XGBoost, LSTM, Time Series Forecasting, NLP, Text Preprocessing, TF-IDF, Sentiment Analysis
 
-Analytical Thinking • Problem Solving • Communication  
-Teamwork • Adaptability • Reporting & Documentation  
+**Visualization & Reporting**: Dashboards, Pivot Tables, Data Storytelling
 
----
+**Deployment**: Streamlit
+
+**Professional Skills**: Analytical Thinking, Problem Solving, Communication, Collaboration
 
 ## ✨ Let’s Connect
 
@@ -108,6 +109,6 @@ I’m actively looking for opportunities in **Data Science & Analytics** where I
 📍 Hyderabad, India  
 📧 priyamethre01@gmail.com | 📞 8106905367  
 [LinkedIn](https://www.linkedin.com/in/priyamethre) |
-[[Portfolio](https://priyamethre.github.io/) 
+[Portfolio](https://priyamethre.github.io/) 
 
 
