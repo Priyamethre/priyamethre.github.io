@@ -3,7 +3,7 @@
 
 ## About Me
 
-I work with data patiently and with purpose, exploring messy datasets until they reveal clear insights. Driven by curiosity, I build projects using real-world data and enjoy uncovering patterns and stories hidden in numbers. I focus on writing clean analyses, asking the right questions, and learning from every dataset I touch. This GitHub represents my hands-on work, learning journey, and growing expertise in data analytics and data science.
+I am an aspiring Data Analyst who turns messy data into meaningful stories. With patience, curiosity, and purpose, I explore real-world datasets to uncover patterns, trends, and insights that drive better decisions. I enjoy asking the right questions, building clean and impactful analyses, and continuously sharpening my analytical skills. This portfolio showcases my hands-on projects, problem-solving mindset, and growing expertise in data analytics.
 
 ---
 
