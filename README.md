@@ -110,6 +110,6 @@ If my work resonates with you, I’d love to connect or collaborate.
 📧 priyamethre01@gmail.com | 
 [LinkedIn](https://www.linkedin.com/in/priyamethre) 
 |
-[Portfolio](https://priyamethre.github.io/) 
+[Github](https://github.com/Priyamethre) 
 
 
