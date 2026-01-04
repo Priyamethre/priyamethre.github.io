@@ -35,7 +35,7 @@ I work with data patiently and with purpose, exploring messy datasets until they
 
 ## 📊 Projects
 
-### 🔹 NVIDIA Stock Price Prediction
+### 🔹 NVIDIA Stock Price Prediction | [Github](https://github.com/Priyamethre/Nvidia-Stock-Price-Prediction)
 - Performed **time-series analysis** to identify trends, seasonality, and volatility in NVIDIA stock data.
 - Built an **LSTM-based forecasting model** using a rolling prediction approach to capture market patterns.
 - Translated model outputs into actionable insights for understanding future price movements.
@@ -44,7 +44,7 @@ I work with data patiently and with purpose, exploring messy datasets until they
 
 ---
 
-### 🔹 Mobile Device Usage Analysis
+### 🔹 Mobile Device Usage Analysis | [Github](https://github.com/Priyamethre/Mobile-Device-Usage-Analysis)
 - Explored mobile device usage data to understand how users interact with apps and consume battery resources.
 - Translated analysis into a clear, interactive **Power BI dashboard** that highlights usage patterns and supports smarter product decisions.
 
@@ -52,7 +52,7 @@ I work with data patiently and with purpose, exploring messy datasets until they
 
 ---
 
-### 🔹 IMDB Movie Recommendation System
+### 🔹 IMDB Movie Recommendation System | [Github](https://github.com/Priyamethre/IMDB-Movie-Recommendation-and-Performance-analysis)
 - Analyzed **10,000+ IMDB records** to uncover patterns in ratings, genres, budgets, and revenues.
 - Developed a **content-based** recommendation system using **TF-IDF** and cosine similarity.
 - Visualized insights to explain factors influencing movie performance and user preferences
